@@ -1,4 +1,4 @@
-# Audio Scripted Node Graph
+# Simple Audio Scripted Node Graph
 
 ## [Immersive Digital Experience Alliance](http://immersivealliance.org/)
 
