@@ -20,7 +20,7 @@ A demonstration of the extensibility of ITMF through adding WAV audio playback o
 
 ## Building
 
-This project was built with Visual Studio 2019. The .sln file provided should provide the necessary set up needed for a release build. A build is accomplished by `Ctrl+Shift+B` or selecting `Build > Build Solution`.
+The `AudioDLL` project was built with Visual Studio 2019. The .sln file provided should provide the necessary set up needed for a release build. A build is accomplished by `Ctrl+Shift+B` or selecting `Build > Build Solution`.
 
 In the case of undefined references or many errors resulting from `winmm.lib` not being added as dependency. This is accomplished by opening `Project > AudioDLL Properties`, then navigating to `Linker > Input > Additional Dependencies`. `winmm.lib` must then be added. 
 
