@@ -1,3 +1,9 @@
+--[[
+@author - Thomas Alder
+@description - Provides a simple interface to play back a WAV file on Windows
+@version - 0.9
+]]--
+
 local AudioScriptedNodeGraph = {}
 
 -- Update paths to packages to point to system32 dlls and location of AudioDLL.dll (for windows playback)
